@@ -1,3 +1,5 @@
+8 round Blake-256 for PHP
+
 http://www.sinfocol.org/2011/01/blake-hash-extension-for-php/
 
 phpize
